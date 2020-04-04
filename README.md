@@ -3,5 +3,5 @@ Simple python2.7 script for generating kerberos usernames based on firstname + l
 
 1) Generate a user file with [Firstname Lastmane] structure.
 
-2) python kwc.py <users file> <output file>
+2) python kwc.py userlist_file output_file
 
